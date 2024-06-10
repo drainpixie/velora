@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "author": "drainpixie",
   "description": "elegant, smooth, and creamy duotone theme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@thi.ng/color": "^5.6.45"
+  }
 }
